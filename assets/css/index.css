@@ -1,0 +1,18 @@
+html, body{
+
+}
+nav{
+    height: 40px;
+    width: 97%;
+    background-color: blue;
+    margin: 0 20px;
+}
+#ylogo{
+    height:10px;
+    width: 30px;
+}
+#ppic{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
