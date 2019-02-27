@@ -76,6 +76,7 @@ h2{
 .comment  {
     display: flex;
     margin-top: 36px;
+    flex-direction: column;
 
 }
 .comment img {
@@ -161,3 +162,16 @@ input[type="search"] {
 hr {
     width: 100%;
 }
+.add_comment{
+    display: flex;
+    margin-bottom: 10px;
+}
+#comment_search{
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid black;
+  }
+  .comenter{
+      display: flex;
+  }
