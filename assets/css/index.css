@@ -27,3 +27,43 @@ nav{
     display: flex;
     align-items: center;
 }
+.main_content{
+    width: 65%;
+    margin:7px 0 0 20px;
+}
+.description{
+    height: 75px;
+    width: 100%;
+    /* background-color: brown; */
+    margin-top:15px;
+}
+h2{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.video_item{
+    /* display: flex;
+    justify-content: space-between; */
+}
+.first_bar{
+    margin-top: 37px;
+}
+.video_item_icon{
+    display: flex;
+    justify-content: space-between;
+    margin-top:30px;
+}
+.uploader{
+    position:relative;
+    height: 175px;
+}
+.uploader_content{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.subscribe_button{
+    position:absolute;
+    right: 8px;
+    top: 40px;
+}
