@@ -6,13 +6,24 @@ nav{
     width: 97%;
     background-color: blue;
     margin: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 #ylogo{
-    height:10px;
-    width: 30px;
+    height: auto;
+    width: 86px;
 }
 #ppic{
     height: 40px;
     width: 40px;
     border-radius: 50%;
+}
+.logo_and_icon {
+    display: flex;
+    align-items: center;
+}
+.icon_group {
+    display: flex;
+    align-items: center;
 }
