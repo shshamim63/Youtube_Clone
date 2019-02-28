@@ -40,9 +40,11 @@ h2{
     font-size: 20px;
     margin-bottom: 0;
 }
-.video_item{
-    /* display: flex;
-    justify-content: space-between; */
+#search_field{
+    width: 500px;   
+}
+#button_search{
+    width: 45px;
 }
 .first_bar{
     margin-top: 37px;
@@ -67,6 +69,9 @@ h2{
     top: 40px;
     background-color: red;
     color: white;
+    width: 125px;
+    height: 40px;
+    font-size: 18px;
 }
 .comments_count {
     margin-top: 24px;
@@ -80,10 +85,10 @@ h2{
 
 }
 .comment img {
-    width: 68px;
-    height: 68px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
-    margin-right: 24px;
+    margin-right: 10px;
 }
 h5{
     margin-top: 0;
@@ -172,6 +177,9 @@ hr {
     background: transparent;
     border-bottom: 1px solid black;
   }
-  .comenter{
+  .commenter{
       display: flex;
+      margin-top: 5px;
+      margin-bottom: 5px;
   }
+  
