@@ -4,7 +4,7 @@
 
 **Technologies Used**
 ---
-# As this is a simple project, used HTML and CSS to accomplish it.
+### As this is a simple project, used HTML and CSS to accomplish it.
 ---
 **Contributors**
 ---
