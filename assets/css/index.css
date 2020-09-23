@@ -31,13 +31,13 @@ nav {
 
 .main-content {
   width: 65%;
-  margin:7px 0 0 20px;
+  margin: 7px 0 0 20px;
 }
 
 .description {
   height: 75px;
   width: 100%;
-  margin-top:15px;
+  margin-top: 15px;
 }
 
 h2 {
@@ -46,7 +46,7 @@ h2 {
 }
 
 .search-field {
-  width: 500px;   
+  width: 500px;
 }
 
 .button-search {
@@ -58,11 +58,11 @@ h2 {
 }
 
 .video-item-icon {
-  margin-top:30px;
+  margin-top: 30px;
 }
 
 .uploader {
-  position:relative;
+  position: relative;
   height: 175px;
 }
 
@@ -139,7 +139,7 @@ input[type="search"] {
 }
 
 .icon i {
-  width: 50px;  
+  width: 50px;
 }
 
 .aside-content {
@@ -188,6 +188,6 @@ hr {
 }
 
 .commenter {
-    margin-top: 5px;
-    margin-bottom: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
