@@ -1,193 +1,163 @@
-nav {
-  height: 40px;
-  width: 97%;
-  margin: 0 20px;
-  align-items: center;
+nav{
+    height: 40px;
+    width: 97%;
+    margin: 0 20px;
+    align-items: center;
 }
-
-.d-oneline {
-  display: flex;
-  justify-content: space-between;
+.d-oneline{
+    display: flex;
+    justify-content: space-between;
 }
-
-.d-flex {
-  display: flex;
+.d-flex{
+    display: flex;
 }
-
-.ylogo {
-  height: auto;
-  width: 86px;
+.ylogo{
+    height: auto;
+    width: 86px;
 }
-
-.ppic {
-  height: 40px;
-  width: 40px;
-  border-radius: 50%;
+.ppic{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
 }
-
-.logo-and-icon {
-  align-items: center;
+.logo-and-icon{
+    align-items: center;
 }
-
-.main-content {
-  width: 65%;
-  margin: 7px 0 0 20px;
+.main-content{
+    width: 65%;
+    margin:7px 0 0 20px;
 }
-
-.description {
-  height: 75px;
-  width: 100%;
-  margin-top: 15px;
+.description{
+    height: 75px;
+    width: 100%;
+    margin-top:15px;
 }
-
-h2 {
-  font-size: 20px;
-  margin-bottom: 0;
+h2{
+    font-size: 20px;
+    margin-bottom: 0;
 }
-
-.search-field {
-  width: 500px;
+.search-field{
+    width: 500px;   
 }
-
-.button-search {
-  width: 45px;
+.button-search{
+    width: 45px;
 }
-
-.first-bar {
-  margin-top: 37px;
+.first-bar{
+    margin-top: 37px;
 }
-
-.video-item-icon {
-  margin-top: 30px;
+.video-item-icon{
+    margin-top:30px;
 }
-
-.uploader {
-  position: relative;
-  height: 175px;
+.uploader{
+    position:relative;
+    height: 175px;
 }
-
-.uploader img {
-  margin-top: 30px;
+.uploader img{
+    margin-top: 30px;
 }
-
-.uploader-content {
-  flex-direction: column;
-  height: 170px;
+.uploader-content{
+    flex-direction: column;
+    height: 170px;
 }
-
-.subscribe-button {
-  position: absolute;
-  right: 8px;
-  top: 40px;
-  background-color: red;
-  color: white;
-  width: 125px;
-  height: 40px;
-  font-size: 18px;
+.subscribe-button{
+    position:absolute;
+    right: 8px;
+    top: 40px;
+    background-color: red;
+    color: white;
+    width: 125px;
+    height: 40px;
+    font-size: 18px;
 }
-
 .comments-count {
-  margin-top: 24px;
-  margin-bottom: 32px;
+    margin-top: 24px;
+    margin-bottom: 32px;
 }
 
 .comment {
-  margin-top: 36px;
-  flex-direction: column;
-}
+    margin-top: 36px;
+    flex-direction: column;
 
-.person-img {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  margin-right: 10px;
 }
-
-h5 {
-  margin-bottom: 8px;
+.person-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
 }
-
+h5{
+    margin-bottom: 8px;
+}
 h5 span {
-  font-weight: 200;
-  padding-left: 10px;
+    font-weight: 200;
+    padding-left: 10px;
 }
-
 .comment-buttons {
-  width: 20%;
-  align-items: center;
+    width: 20%;
+    align-items: center;
 }
 
 .view-replies {
-  display: inline-block;
-  margin-top: 12px;
-  font-weight: bold;
+    display: inline-block;
+    margin-top: 12px;
+    font-weight: bold;
 }
 
 iframe {
-  display: inline-block;
-  width: 100%;
-  height: 500px;
-  border: none;
+    display: inline-block;
+    width: 100%;
+    height: 500px;
+    border: none;
 }
-
 .search-box {
-  width: 520px;
+    width: 520px;
 }
-
 input[type="search"] {
-  flex-grow: 1;
+    flex-grow: 1;
 }
 
-.icon i {
-  width: 50px;
+.icon i{
+    width: 50px;
+    
 }
-
-.aside-content {
-  width: 30%;
-  margin-top: 15px;
-  flex-direction: column;
+.aside-content{
+    width: 30%;
+    margin-top: 15px;
+    flex-direction: column;
 }
-
-.aside-element {
-  margin-bottom: 5px;
+.aside-element{
+    margin-bottom: 5px;
 }
-
-.auto {
-  justify-content: space-between;
-  width: 365px;
+.auto{
+    justify-content: space-between;
+    width: 365px;
 }
-
-.suggested-video {
-  width: 150px;
-  height: 100px;
+.suggested-video{
+    width: 150px;
+    height: 100px;
 }
-
-.aside-element-info {
-  margin: 0;
-  padding: 0;
-  position: relative;
+.aside-element-info{
+    margin: 0;
+    padding: 0;
+    position: relative;
 }
-
-.aside-element-individual {
-  margin: 0 0 0 5px;
+.aside-element-individual{
+    margin: 0 0 0 5px;
 }
 
 hr {
-  width: 100%;
+    width: 100%;
 }
-
-.add-comment {
-  margin-bottom: 10px;
+.add-comment{
+    margin-bottom: 10px;
 }
-
-.comment-search:focus {
-  border: 0;
-  outline: none;
-  background: transparent;
-  border-bottom: 1px solid black;
-}
-
-.commenter {
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
+.comment-search:focus{
+    border: 0;
+    outline: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+  }
+  .commenter{
+      margin-top: 5px;
+      margin-bottom: 5px;
+  }
